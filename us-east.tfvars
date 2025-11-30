@@ -1,0 +1,6 @@
+project_name = "multireg"
+primary_region = "us-east-1"
+ami_us_east_1 = "ami-0abcdef1234567890"
+ami_us_west_2 = "ami-0abcdef1234567890"
+hosted_zone_id = "ZABCDEFG12345"
+domain_name = "example.com"
