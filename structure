@@ -1,8 +1,4 @@
 multi-region/
 ├── main.tf
 ├── providers.tf
-├── variables.tf
-├── outputs.tf
-├── us-east.tfvars
-├── us-west.tfvars
-└── README.md
+└── variables.tf
